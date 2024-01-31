@@ -1,2 +1,2 @@
-# cathartic_001
-Cathartic ~ Websites are ez.
+# catharsis
+A website for the event cartharsis
